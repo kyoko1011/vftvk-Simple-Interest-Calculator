@@ -17,7 +17,7 @@ fieldset {
     width:300px;
     padding:20px;
     border-radius:25px;
-    align:center;
+    align-self:center;
     margin:0 auto;
 
 }
